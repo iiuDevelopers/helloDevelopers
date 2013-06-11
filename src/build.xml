@@ -12,11 +12,7 @@
     <testOutputDirectory>target/test-classes</testOutputDirectory>
     <sourceDirectory></sourceDirectory>
     
-    <resources>
-      <resource>
-        <directory>src</directory>
-      </resource>
-    </resources>
+    
     <testResources>
       <testResource>
         <directory>src\test\helloDevelopers</directory>
