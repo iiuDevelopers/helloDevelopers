@@ -8,7 +8,6 @@
   <build>
     <directory>target</directory>
     <finalName>${artifactId}-${version}</finalName>
-    <testOutputDirectory>target/test-classes</testOutputDirectory>
     <sourceDirectory></sourceDirectory>
     
     <resources>
