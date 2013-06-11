@@ -6,8 +6,7 @@
    <version>0.0.1-SNAPSHOT</version>
 
   <build>
-    <directory>target</directory>
-    <finalName>${artifactId}-${version}</finalName>
+   
     <sourceDirectory></sourceDirectory>
     
     <resources>
