@@ -14,12 +14,12 @@
     
     <resources>
       <resource>
-        <directory></directory>
+        <directory>src</directory>
       </resource>
     </resources>
     <testResources>
       <testResource>
-        <directory>\test\helloDevelopers</directory>
+        <directory>src\test\helloDevelopers</directory>
       </testResource>
     </testResources>
   </build>
