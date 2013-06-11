@@ -10,11 +10,11 @@
     <outputDirectory>target/classes</outputDirectory>
     <finalName>${artifactId}-${version}</finalName>
     <testOutputDirectory>target/test-classes</testOutputDirectory>
-    <sourceDirectory>src</sourceDirectory>
+    <sourceDirectory></sourceDirectory>
     
     <resources>
       <resource>
-        <directory>src</directory>
+        <directory></directory>
       </resource>
     </resources>
     <testResources>
