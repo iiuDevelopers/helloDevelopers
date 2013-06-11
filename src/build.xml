@@ -19,7 +19,7 @@
     </resources>
     <testResources>
       <testResource>
-        <directory>src\test\helloDevelopers</directory>
+        <directory>\test\helloDevelopers</directory>
       </testResource>
     </testResources>
   </build>
