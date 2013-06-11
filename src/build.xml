@@ -9,9 +9,19 @@
     <directory>target</directory>
     <outputDirectory>target/classes</outputDirectory>
     <finalName>${artifactId}-${version}</finalName>
-    
+    <testOutputDirectory>target/test-classes</testOutputDirectory>
     <sourceDirectory></sourceDirectory>
-  
+    
+    <resources>
+      <resource>
+        <directory>src</directory>
+      </resource>
+    </resources>
+    <testResources>
+      <testResource>
+        <directory>src\test\helloDevelopers</directory>
+      </testResource>
+    </testResources>
   </build>
   
  </project>
