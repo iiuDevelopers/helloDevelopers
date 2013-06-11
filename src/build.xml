@@ -9,16 +9,7 @@
    
     <sourceDirectory></sourceDirectory>
     
-    <resources>
-      <resource>
-        <directory></directory>
-      </resource>
-    </resources>
-    <testResources>
-      <testResource>
-        <directory>src\test\helloDevelopers</directory>
-      </testResource>
-    </testResources>
+  
   </build>
   
  </project>
